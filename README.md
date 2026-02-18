@@ -16,6 +16,10 @@ The goal of this project was to:
 
 ---
 
+[Click Here to View Project](https://my-portfolio-zzpm.vercel.app/)
+
+---
+
 ##  Technologies Used
 
 - HTML5
